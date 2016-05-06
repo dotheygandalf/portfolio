@@ -141,9 +141,9 @@
 }
 
 .post-right {
+  text-align: center;
 
   @include media-query($on-palm) {
-    margin-top: $spacing-unit / 2;
     width: 100%;
   }
 
@@ -167,6 +167,10 @@
 }
 
 .post-link {
+  &:hover {
+    background: #074E3B;
+  }
+
   h1 {
     margin: 0;
   }
@@ -192,7 +196,7 @@
 .post-header {
   padding: 180px 0 70px;
   font-family: "Source Code Pro", monospace;
-  background-color: #1C1F33;
+  background-color: #14926F;
   color: #ffffff;
 }
 
