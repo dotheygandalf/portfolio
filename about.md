@@ -4,5 +4,9 @@ permalink: /about/
 ---
 
 <div class="wrapper" markdown="1">
-This my portfolio.  It was built on [Jekyll](http://jekyllrb.com/).  Shoutout to [katmeister](https://github.com/katmeister) for being so awesome.
+# Contact Me
+
+[CV](/assets/resume.pdf) - [Email](https://github.com/katmeister) - [LinkedIn](Profilehttps://www.linkedin.com/in/jonathan-chang-0585294b)
+
+This my portfolio, built on [Jekyll](http://jekyllrb.com/).
 </div>
