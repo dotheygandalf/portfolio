@@ -24,16 +24,16 @@ html {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
-    letter-spacing: $letter-spacing;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  letter-spacing: $letter-spacing;
 }
 
 
@@ -64,8 +64,8 @@ p:last-child {
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
 
@@ -74,11 +74,11 @@ img {
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
 
 
@@ -87,14 +87,14 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+     margin-bottom: 0;
+  }
 }
 
 
@@ -103,9 +103,9 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
-    line-height: 1;
-    letter-spacing: -0.038em;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: -0.038em;
 }
 
 
@@ -116,6 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $brand-color;
   text-decoration: none;
+  padding: 2px 7px;
 
   &:hover {
     background: #333;
@@ -129,19 +130,19 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $brand-color;
-    padding: 0 $spacing-unit*2;
-    font-size: 28px;
-    font-style: italic;
+  color: $brand-color;
+  padding: 0 $spacing-unit*2;
+  font-size: 28px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
 
-    @include media-query($on-palm) {
-        font-size: 22px;
-        padding: 0 $spacing-unit / 2;
-    }
+  @include media-query($on-palm) {
+    font-size: 22px;
+    padding: 0 $spacing-unit / 2;
+  }
 }
 
 
@@ -151,9 +152,9 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    background-color: $grey-color-dark;
-    color: $white;
+  font-size: 15px;
+  background-color: $grey-color-dark;
+  color: $white;
 }
 
 code {
@@ -161,14 +162,14 @@ code {
 }
 
 pre {
-    padding: 16px;
-    overflow-x: auto;
+  padding: 16px;
+  overflow-x: auto;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 
@@ -176,21 +177,21 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin: 0 auto;
-    padding: 0 $spacing-unit;
-    @extend %clearfix;
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin: 0 auto;
+  padding: 0 $spacing-unit;
+  @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding: 0 $spacing-unit / 2;
-    }
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding: 0 $spacing-unit / 2;
+  }
 }
 
 .wrapper-writing {
-    max-width: 600px;
+  max-width: 600px;
 }
 
 
@@ -198,14 +199,14 @@ pre {
  * Social Media
  */
 ul.social-media-list {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 
-    li {
-      display: inline-block;
-      margin: 0 $spacing-unit / 2;
-    }
+  li {
+    display: inline-block;
+    margin: 0 $spacing-unit / 2;
+  }
 }
 
 /**
@@ -213,9 +214,9 @@ ul.social-media-list {
  */
 %clearfix {
 
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
