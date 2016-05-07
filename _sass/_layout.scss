@@ -103,6 +103,16 @@
 .site-footer {
     padding: $spacing-unit*2 0;
     text-align: center;
+
+    .contact-me {
+      list-style: none;
+      margin: 0;
+
+      li {
+        display: inline-block;
+        margin: 0 15px;
+      }
+    }
 }
 
 
