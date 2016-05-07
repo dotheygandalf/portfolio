@@ -92,6 +92,10 @@ When you attempt to name everything, you find out quickly that you have run out 
 > If language be not in accordance with the truth of things, affairs cannot be carried on to success.
 > <cite>--Tsun Tzu</cite>
 
+### Standard Visualizations
+
+Based on the work of Stephen Few's [Information Dashboard Design](http://www.amazon.com/Information-Dashboard-Design-At-Glance/dp/1938377001/), we created a set of basic visualizations that would be able to present data in a consistent, coherent, and unassuming manner.
+
 
 </div>
 </div>
@@ -106,9 +110,6 @@ When you attempt to name everything, you find out quickly that you have run out 
 <div class="wrapper" markdown="1">
 ## A New Day
 
-### Standardize The Visualizations
-
-Based on the work of Stephen Few's [Information Dashboard Design](http://www.amazon.com/Information-Dashboard-Design-At-Glance/dp/1938377001/), we created a set of basic visualizations that would be able to present data in a consistent, coherent, and unassuming manner.
 
 
 ### Let The Data Flow

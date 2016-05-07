@@ -3,6 +3,7 @@
  */
 .site-header {
     min-height: 70px;
+    margin-top: 20px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -30,18 +31,12 @@
 }
 
 .site-title, .site-about {
-  line-height: 70px;
   letter-spacing: -1px;
   margin-bottom: 0;
 }
 
 .site-title {
     float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
 }
 
 .site-about {
