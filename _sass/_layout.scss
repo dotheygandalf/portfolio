@@ -200,8 +200,12 @@
     margin: 0;
   }
 
-  a, a:visited {
+  a {
     color: #fff;
+
+    &:hover {
+      background: initial;
+    }
   }
 }
 
@@ -332,7 +336,7 @@
   }
 
   @include media-query($on-palm) {
-      padding: $spacing-unit 0;
+    padding: $spacing-unit 0;
   }
 }
 
