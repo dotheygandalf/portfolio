@@ -6,7 +6,7 @@ categories: work
 thumbnail: /images/dashboard-thumbnail.png
 caption: "Product Design & Development"
 type: "Project"
-info: {Role: Product Design & Development, Company: Parasoft Corp., Date: 2012 - Present}
+info: {Role: Product Design & Software Engineer, Company: Parasoft Corp., Date: 2012 - Present, Technologies: 'Angular.js, node.js, LESS, grunt, bower, Java, MySQL'}
 intro: "Design for Parasoft's DTP Report Center dashboard."
 ---
 
@@ -42,21 +42,20 @@ Companies were buying Parasoft software for their employees to use.  It was easy
 
 ### Bring Value
 
-If the users are not the ones choosing to use this tool, then we have to make them believers.  No one wants to have something forced onto them.
+If the users are not the ones choosing to use this tool, then we have to make them believers.  No one wants to have something forced onto them. It is about bringing value to all levels of users.
 
 ### Call To Action
 
 There is an overwhelming amount of data.  A tool has power when you enable a user to learn something that they did not know already.  A tool has ____ when you enable a user to solve the problem that is found.
-
-> Why are you showing me what I already know?
-> <cite>--Every User Ever</cite>
 
 </div>
 </div>
 
 <div class="full-bleed orange">
 <div class="wrapper" markdown="1">
-  ![Old Old Dashboard](/images/old-old-dashboard.png)
+![Old Old Dashboard](/images/old-old-dashboard.png)
+
+> Can you explain what these charts mean again?
 </div>
 </div>
 
@@ -82,21 +81,16 @@ Let us not presume to know what the users want.  We are not the gatekeepers of t
 
 <div class="full-bleed-white" markdown="1">
 <div class="wrapper" markdown="1">
-## Discovery
+## Rough Patches
+
+Discovering what was the good part.  There was a certain getting distracted by the new and the shiny.  There was difficulty in getting across the core concepts.   Instead we were still making sacrifices to usability in ther name of short term goals.
 
 ### Names
 
 When you attempt to name everything, you find out quickly that you have run out of names.  Instead of trying to name everything, make the visualization speak for itself.  Give the users enough visual cues so that they can read the data quickly from the context of their current environment.
 
-</div>
-</div>
-
-<div class="full-bleed-white" markdown="1">
-<div class="wrapper" markdown="1">
-## Rough Patches
-
-> All that is gold does not glitter, not all those who wander are lost.
-> <cite>--J.R.R. Tolkein</cite>
+> If language be not in accordance with the truth of things, affairs cannot be carried on to success.
+> <cite>--Tsun Tzu</cite>
 
 
 </div>
@@ -110,7 +104,7 @@ When you attempt to name everything, you find out quickly that you have run out 
 
 <div class="full-bleed-white" markdown="1">
 <div class="wrapper" markdown="1">
-## Action
+## A New Day
 
 ### Standardize The Visualizations
 
@@ -129,9 +123,11 @@ Based on the work of Stephen Few's [Information Dashboard Design](http://www.ama
 
 ### Rewrites are hard
 
-### Unit Tests and Code Coverage
+Inheriting a legacy product has its issues as further development either means keeping everything the same and making more of the same old thing, or tearing out certain parts in order to rethink certain paradigms.  Code rewrites are already a tricky business, but when the entire architecture from a concepts perspective needs to be rethought, it requires a lot of work.
 
-### Discovery
+### Reclaiming Zero
+
+When we let users keep track of problem areas that they discover, we make zero worth something.  It means that their work is done.  It gives the users a sense of completion, a sense of satisfaction.
 
 </div>
 </div>
