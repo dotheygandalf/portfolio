@@ -38,6 +38,16 @@
   .wrapper {
     max-width: 650px;
   }
+
+  .attributes {
+    list-style: none;
+    margin: 0;
+    margin-bottom: 15px;
+
+    li {
+      font-family: "Source Code Pro", monospace;
+    }
+  }
 }
 
 .site-title, .nav-link {
