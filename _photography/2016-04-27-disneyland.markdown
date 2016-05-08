@@ -3,7 +3,7 @@ layout: page
 title:  "Disneyland"
 date:   2016-04-27 12:37:36 -0800
 categories: photography
-thumbnail: /assets/thumbnails/disneyland-child-balloon.jpg
+thumbnail: /assets/thumbnails/disneyland.jpg
 caption: ""
 type: "Project"
 info: {Equipment: 'Nikon DF, Nikon 135mm f/2.8'}
