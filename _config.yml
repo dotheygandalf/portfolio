@@ -18,3 +18,8 @@ github_username:  dotheygandalf
 
 # Build settings
 markdown: kramdown
+
+collections:
+  photography:
+    permalink: /photography/:title.html
+    output: true

@@ -23,6 +23,16 @@
   }
 }
 
+.page {
+  h1 {
+    color: #333;
+  }
+
+  img {
+    margin-bottom: 10px;
+  }
+}
+
 .index {
 
   .wrapper {
@@ -30,7 +40,7 @@
   }
 }
 
-.site-title, .site-about {
+.site-title, .nav-link {
   letter-spacing: -1px;
   margin-bottom: 0;
 }
@@ -39,7 +49,7 @@
     float: left;
 }
 
-.site-about {
+.nav-link {
   float: right;
 }
 
