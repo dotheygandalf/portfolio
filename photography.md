@@ -5,7 +5,7 @@ permalink: /photography/
 ---
 
 <div class="wrapper">
-  <ul class="post-list">
+  <ul class="photography-list">
     {% for post in site.photography %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}">
@@ -13,7 +13,7 @@ permalink: /photography/
         </a>
         <div class="post-right">
           <h1 class="post-link">
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a href="{{ post.url | prepend: site.baseurl }}">// {{ post.title }} //</a>
           </h1>
         </div>
       </li>

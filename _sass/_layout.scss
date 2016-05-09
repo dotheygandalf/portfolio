@@ -234,6 +234,26 @@
   }
 }
 
+.photography-list {
+  list-style: none;
+  margin: 0;
+
+  .post-link {
+    background: #fff;
+    font-size: 18px;
+    margin-bottom: 20px;
+
+    a {
+      color: #FF3D0C;
+
+      &:hover {
+        background: #333;
+        color: yellow;
+      }
+    }
+  }
+}
+
 .post-caption {
   text-transform: uppercase;
   font-size: $small-font-size;
