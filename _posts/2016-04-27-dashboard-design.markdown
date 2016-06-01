@@ -132,3 +132,35 @@ When we let users keep track of problem areas that they discover, we make zero w
 
 </div>
 </div>
+
+<div class="wrapper" markdown="1">
+
+## Reading List
+<style type="text/css" media="screen">
+  .gr_grid_container {
+    /* customize grid container div here. eg: width: 500px; */
+  }
+
+  .gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 98px;
+    height: 160px;
+    padding: 0px 0px;
+    overflow: hidden;
+  }
+</style>
+<div id="gr_grid_widget_1464797095">
+  <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+    <div class="gr_grid_container">
+<div class="gr_grid_book_container"><a title="Information Dashboard Design: The Effective Visual Communication of Data" href="https://www.goodreads.com/book/show/336258.Information_Dashboard_Design"><img alt="Information Dashboard Design: The Effective Visual Communication of Data" border="0" src="https://d.gr-assets.com/books/1328834536m/336258.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="The Design of Everyday Things" href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things"><img alt="The Design of Everyday Things" border="0" src="https://d.gr-assets.com/books/1442460745m/840.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity" href="https://www.goodreads.com/book/show/44098.The_Inmates_Are_Running_the_Asylum"><img alt="The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity" border="0" src="https://d.gr-assets.com/books/1294604058m/44098.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Making It Right: Product Management For A Startup World" href="https://www.goodreads.com/book/show/22811444-making-it-right"><img alt="Making It Right: Product Management For A Startup World" border="0" src="https://d.gr-assets.com/books/1439406838m/22811444.jpg" /></a></div>
+<noscript><br/>Share <a href="/">book reviews</a> and ratings with Jonathan, and even join a <a href="/group">book club</a> on Goodreads.</noscript>
+</div>
+
+</div>
+<script src="https://www.goodreads.com/review/grid_widget/16515786.Dashboard%20Design%20Books?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=a&shelf=dashboard-ui&sort=date_added&widget_id=1464797095" type="text/javascript" charset="utf-8"></script>
+
+</div>
