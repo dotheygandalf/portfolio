@@ -7,7 +7,7 @@ thumbnail: /assets/work/requirements-burnddown.png
 caption: "Product Designer & Software Engineer"
 type: "Project"
 info: {Role: Product Designer & Software Engineer, Company: Parasoft Corp., Date: 2012 - Present, Technologies: 'JavaScript, D3.js, AJAX'}
-intro: "Design for Parasoft's DTP Report Center dashboard."
+intro: "Custom chart for tracking story points."
 ---
 
 

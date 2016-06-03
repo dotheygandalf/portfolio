@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Parasoft Report Center"
+title:  "Dashboard"
 date:   2016-04-27 12:37:36 -0800
 categories: work
 thumbnail: /images/dashboard-thumbnail.png
 caption: "Product Designer & Software Engineer"
 type: "Project"
 info: {Role: Product Designer & Software Engineer, Company: Parasoft Corp., Date: 2012 - Present, Technologies: 'Angular.js, node.js, LESS, grunt, bower, Java, MySQL'}
-intro: "Design for Parasoft's DTP Report Center dashboard."
+intro: "Design and implementation of Parasoft's DTP Report Center dashboard."
 ---
 
 
