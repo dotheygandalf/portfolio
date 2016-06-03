@@ -70,7 +70,7 @@ When reports are specific, complicated, and hard to find, it requires our users 
 <div class="full-bleed-white" markdown="1">
 <div class="wrapper" markdown="1">
 
-## Always be Knolling
+## Knolling
 
 * Put away the things that are not in use
 * Group all ‘like’ objects
