@@ -33,7 +33,7 @@ This project is hosted on Amazon's EC2 at the following [link](http://ec2-54-186
 
 <div class="full-bleed orange">
 <div class="wrapper" markdown="1">
-  ![Screenshot](/assets/work/tagCounter/tag-counter.png)
+  ![Screenshot](/assets/work/tagCounter/tag-counter.PNG)
 </div>
 </div>
 
