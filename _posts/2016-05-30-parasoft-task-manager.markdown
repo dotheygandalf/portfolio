@@ -15,7 +15,7 @@ intro: "Experimental desktop application integrating with Parasoft's Project Cen
 <div class="wrapper" markdown="1">
 ## Overview
 
-An experiment using GitHub's [Electron](http://electron.atom.io/) project to build a desktop application for Parasoft's Project Center.
+An experiment using GitHub's [Electron](http://electron.atom.io/){:target="_blank"} project to build a desktop application for Parasoft's Project Center.
 
 ## Problems
 
