@@ -16,7 +16,7 @@ intro: "Small webapp that counts HTML elements of webpages."
 
 ## Demo
 
-This project is hosted on Amazon's EC2 at the following [link](http://ec2-54-186-30-18.us-west-2.compute.amazonaws.com/){:target="_blank"}.
+This project is hosted on Amazon's EC2 at the following [link](http://ec2-54-186-30-18.us-west-2.compute.amazonaws.com/){:target="_blank"} and the code can be found on [GitHub](https://github.com/dotheygandalf/htmlTagCounter){:target="_blank"}.
 
 ## Goal
 
