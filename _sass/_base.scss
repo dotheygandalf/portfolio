@@ -13,7 +13,8 @@ body, h1, h2, h3, h4, h5, h6, a, blockquote, cite {
 }
 
 cite {
-  float: right;
+  display: block;
+  text-align: right;
 }
 
 html {
@@ -49,7 +50,7 @@ ul, ol, dl,
 
 p, figure,
 pre, blockquote {
-  margin-bottom: 2.61803rem;
+  margin: 20px 0 25px;
 
   @include media-query($on-palm) {
     margin-bottom: $spacing-unit / 2;
