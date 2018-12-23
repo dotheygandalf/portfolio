@@ -40,6 +40,8 @@
 }
 
 .p-bauhaus__grid {
+  max-width: 900px;
+  margin: auto;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: 1fr auto 1fr;
