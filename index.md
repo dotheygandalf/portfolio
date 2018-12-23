@@ -1,17 +1,21 @@
 ---
-layout: default
+layout: next
 ---
 
-<div class="index wrapper" markdown="1">
-# Hello, my name is Jonathan Chang.
-
-* Front end developer
-* Product designer
-* Photographer
-* INTP
-
-Check out my [latest work](/work)
-
-[CV](/assets/resume.pdf){:target="_blank"} - [Email](mailto:prancingwithponies@live.com) - [LinkedIn](https://www.linkedin.com/in/jonathan-chang-0585294b){:target="_blank"}
-
+<div class="p-bauhaus__grid u-full-height">
+  <div class="p-bauhaus__font p-grid__font"></div>
+  <div class="p-grid__quote">
+  “Space, is big. Really big. You just won’t believe how vastly, hugely, mindbogglingly big it is. I mean, you may think it’s a long way down the road to the chemist’s, but that’s just peanuts to space.”
+  — Douglas Adams
+  </div>
+  <div class="p-bauhaus__title p-grid__name">Jonathan Chang</div>
+  <div class="p-grid__caption">
+    <ul>
+      <li>Front end developer</li>
+      <li>Product designer</li>
+      <li>Photographer</li>
+      <li>INTP</li>
+    </ul>
+  </div>
+  <div class="p-bauhaus__bar--bottom"></div>
 </div>

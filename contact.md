@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about/
+permalink: /contact/
 ---
 
 <div class="wrapper" markdown="1">
@@ -9,6 +9,8 @@ permalink: /about/
 [CV](/assets/resume.pdf){:target="_blank"} - [Email](mailto:prancingwithponies@live.com) - [LinkedIn](https://www.linkedin.com/in/jonathan-chang-0585294b){:target="_blank"}
 
 This my portfolio, built on [Jekyll](http://jekyllrb.com/){:target="_blank"} and hosted by [Github Pages](https://pages.github.com/){:target="_blank"}.
+
+The landing page’s design was inspired by [Marjan Mossadeghian](https://asemany.myportfolio.com/bauhaus-poster).
 
 ## Currently Reading
 
