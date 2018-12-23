@@ -115,12 +115,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: #b44241;
   text-decoration: none;
 
   &:hover {
-    background: #333;
-    color: yellow;
+    color: darken(#b44241, 20%);
   }
 }
 
