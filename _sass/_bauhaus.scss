@@ -2,6 +2,18 @@
   background-color: #e1c59e;
   padding-top: 20px;
 
+  .p-header__wrapper {
+    display: flex;
+  }
+
+  .p-nav__right {
+    margin-left: auto;
+  }
+
+  .p-nav__items {
+    display: flex;
+  }
+
   a {
     font-family: bungee, sans-serif;
     font-weight: 400;
@@ -10,8 +22,7 @@
 
     &:hover {
       background-color: initial;
-      font-weight: 800;
-      font-size: 1.1rem;
+      color: darken(#b44241, 20%);
     }
   }
 
@@ -127,6 +138,28 @@ only screen and (     -o-min-device-pixel-ratio: 2/1)    and (min-width: 320px),
 only screen and (        min-device-pixel-ratio: 2)      and (min-width: 320px),
 only screen and (                min-resolution: 192dpi) and (min-width: 320px),
 only screen and (                min-resolution: 2dppx)  and (min-width: 320px) {
+  .p-header {
+    .p-nav__title {
+      margin-left: 10px;
+    }
+
+    .p-header__wrapper {
+      flex-direction: column;
+    }
+
+    .p-nav__items {
+      flex-direction: column;
+    }
+
+    .p-nav__right {
+      margin-left: initial;
+    }
+  }
+
+  .p-page__content {
+    padding-top: 30px;
+  }
+
   .p-bauhaus__grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr auto 4fr auto;
@@ -174,6 +207,20 @@ only screen and (     -o-min-device-pixel-ratio: 2/1)    and (min-width: 768px),
 only screen and (        min-device-pixel-ratio: 2)      and (min-width: 768px),
 only screen and (                min-resolution: 192dpi) and (min-width: 768px),
 only screen and (                min-resolution: 2dppx)  and (min-width: 768px) {
+  .p-header {
+    .p-header__wrapper{
+      flex-direction: row;
+    }
+
+    .p-nav__items {
+      flex-direction: row;
+    }
+
+    .p-nav__right {
+      margin-left: auto;
+    }
+  }
+
   .p-bauhaus__grid {
     grid-template-columns: 1fr 7fr;
     grid-template-rows: 1fr 1fr auto 4fr auto 1fr 1fr;
