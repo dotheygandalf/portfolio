@@ -14,7 +14,7 @@ permalink: /photography/
         </a>
         <div class="post-right">
           <h1 class="post-link">
-            <a href="{{ post.url | prepend: site.baseurl }}">// {{ post.title }} //</a>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h1>
         </div>
       </li>

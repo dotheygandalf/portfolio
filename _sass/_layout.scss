@@ -234,9 +234,8 @@
 }
 
 .post-link {
-  &:hover {
-    background: #074E3B;
-  }
+  font-family: nunito, sans-serif;
+  font-style: normal;
 
   h1 {
     margin: 0;
@@ -291,10 +290,12 @@
 }
 
 .post-title {
+  font-family: nunito, sans-serif;
+  font-style: normal;
   text-align: center;
   font-size: 48px;
   color: #fff;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 
   @include media-query($on-laptop) {
     font-size: 38px;

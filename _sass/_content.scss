@@ -1,0 +1,20 @@
+
+.p-content__grid {
+  display: grid;
+  grid-template-columns: 2fr 3fr 2fr;
+  padding-bottom: 60px;
+  margin: 0 10px;
+}
+
+.p-content {
+  grid-column: 2;
+
+  h1, h2, h3, h4, p, a {
+    font-family: nunito, sans-serif;
+    font-style: normal;
+  }
+
+  h1, h2, h3, h4 {
+    font-weight: 700;
+  }
+}
