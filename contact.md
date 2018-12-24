@@ -10,7 +10,7 @@ permalink: /contact/
 
 This my portfolio, built on [Jekyll](http://jekyllrb.com/){:target="_blank"} and hosted by [Github Pages](https://pages.github.com/){:target="_blank"}.
 
-The landing page’s design was inspired by [Marjan Mossadeghian](https://asemany.myportfolio.com/bauhaus-poster).
+The landing page’s design was inspired by [Marjan Mossadeghian](https://asemany.myportfolio.com/bauhaus-poster){:target="_blank"}.
 
 ## Currently Reading
 

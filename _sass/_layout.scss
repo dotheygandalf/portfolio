@@ -157,6 +157,10 @@
   background-color: #e1c59e;
   text-align: center;
 
+  &--alt {
+    background-color: initial;
+  }
+
   .contact-me {
   list-style: none;
   margin: 0;
