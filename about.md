@@ -7,12 +7,10 @@ permalink: /about/
 <div class="p-content" markdown="1">
 # About Me
 
-I am a front end engineer who loves to dig into the mindset of the user and fight for what they need.  Over the years, I have worn many hats and I have done everything from design, to product management, to backend engineering.  But at the end of the day, I love understanding workflows and building great user experiences that empower my customrs.
+A cross functional front end engineer passionate about user experience, clean code and clear processes. I am an advocate for understanding complexity in order to improve processes and user experiences
 
 
-I am currently work at Slack <i class="fab fa-slack" aria-hidden="true"></i> on the Internal Tools team where I have built everything from bots to build and release tooling.
-
-When I am not working, I am either reading, napping or catching up on my ever growing backlog of games.
+Currently deploying builds at Slack <i class="fab fa-slack" aria-hidden="true"></i> in Developer Productivity for the Internal Tool's bulid and release team.
 
 # Contact
 
