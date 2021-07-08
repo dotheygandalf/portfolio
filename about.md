@@ -10,7 +10,7 @@ permalink: /about/
 A cross functional front end engineer passionate about user experience, clean code and clear processes. I am an advocate for understanding complexity in order to improve processes and user experiences
 
 
-Currently deploying builds at Slack <i class="fab fa-slack" aria-hidden="true"></i> in Developer Productivity for the Internal Tool's bulid and release team.
+Currently a Staff Engineer working on deploys and internal tools at Slack <i class="fab fa-slack" aria-hidden="true"></i>,.
 
 # Contact
 
