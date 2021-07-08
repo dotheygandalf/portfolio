@@ -11,10 +11,7 @@ layout: next
   <div class="p-bauhaus__title p-grid__name">Jonathan Chang</div>
   <div class="p-grid__caption">
     <ul>
-      <li>Front end developer</li>
-      <li>Product designer</li>
-      <li>Photographer</li>
-      <li>INTP</li>
+      <li>Front End Engineer</li>
     </ul>
   </div>
   <div class="p-bauhaus__bar--bottom"></div>
