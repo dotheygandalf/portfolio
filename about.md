@@ -12,9 +12,12 @@ A cross functional front end engineer passionate about user experience, clean co
 
 Currently a Staff Engineer working on deploys and internal tools at Slack <i class="fab fa-slack" aria-hidden="true"></i>,.
 
-# Contact
+## Contact
 
 [CV](/assets/jonathanchang-resume-2021.pdf){:target="_blank"} - [Email](mailto:prancingwithponies@live.com) - [LinkedIn](https://www.linkedin.com/in/jonathan-chang-0585294b){:target="_blank"}
+
+## My Writing
+[Deploys at Slack](https://slack.engineering/deploys-at-slack/){:target="_blank"}
 
 Built on [Jekyll](http://jekyllrb.com/){:target="_blank"} and hosted by [Github Pages](https://github.com/dotheygandalf/portfolio/){:target="_blank"}.
 <div>
