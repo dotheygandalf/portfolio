@@ -14,7 +14,7 @@ Currently a Staff Engineer working on deploys and internal tools at Slack <i cla
 
 # Contact
 
-[CV](/assets/resume.pdf){:target="_blank"} - [Email](mailto:prancingwithponies@live.com) - [LinkedIn](https://www.linkedin.com/in/jonathan-chang-0585294b){:target="_blank"}
+[CV](/assets/jonathanchang-resume-2021.pdf){:target="_blank"} - [Email](mailto:prancingwithponies@live.com) - [LinkedIn](https://www.linkedin.com/in/jonathan-chang-0585294b){:target="_blank"}
 
 Built on [Jekyll](http://jekyllrb.com/){:target="_blank"} and hosted by [Github Pages](https://pages.github.com/){:target="_blank"}.
 <div>
