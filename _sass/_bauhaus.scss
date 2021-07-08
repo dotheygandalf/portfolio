@@ -46,7 +46,7 @@
 }
 
 .u-full-height {
-  height: 100vh;
+  min-height: 1040px;
 }
 
 .p-page__content {
@@ -117,8 +117,9 @@
   display: flex;
   align-items: flex-end;
   max-width: 500px;
-  font-weight: 500;
+  font-weight: 400;
   white-space: pre-line;
+  font-family: "nunito";
 }
 
 .p-grid__caption {
@@ -136,13 +137,12 @@
   }
 }
 
-@media
-only screen and (-webkit-min-device-pixel-ratio: 2)      and (min-width: 320px),
-only screen and (   min--moz-device-pixel-ratio: 2)      and (min-width: 320px),
-only screen and (     -o-min-device-pixel-ratio: 2/1)    and (min-width: 320px),
-only screen and (        min-device-pixel-ratio: 2)      and (min-width: 320px),
-only screen and (                min-resolution: 192dpi) and (min-width: 320px),
-only screen and (                min-resolution: 2dppx)  and (min-width: 320px) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 320px),
+  only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 320px),
+  only screen and (-o-min-device-pixel-ratio: 2/1) and (min-width: 320px),
+  only screen and (min-device-pixel-ratio: 2) and (min-width: 320px),
+  only screen and (min-resolution: 192dpi) and (min-width: 320px),
+  only screen and (min-resolution: 2dppx) and (min-width: 320px) {
   .p-header {
     grid-template-columns: auto;
 
@@ -208,15 +208,14 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 320px) 
   }
 }
 
-@media
-only screen and (-webkit-min-device-pixel-ratio: 2)      and (min-width: 768px),
-only screen and (   min--moz-device-pixel-ratio: 2)      and (min-width: 768px),
-only screen and (     -o-min-device-pixel-ratio: 2/1)    and (min-width: 768px),
-only screen and (        min-device-pixel-ratio: 2)      and (min-width: 768px),
-only screen and (                min-resolution: 192dpi) and (min-width: 768px),
-only screen and (                min-resolution: 2dppx)  and (min-width: 768px) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px),
+  only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 768px),
+  only screen and (-o-min-device-pixel-ratio: 2/1) and (min-width: 768px),
+  only screen and (min-device-pixel-ratio: 2) and (min-width: 768px),
+  only screen and (min-resolution: 192dpi) and (min-width: 768px),
+  only screen and (min-resolution: 2dppx) and (min-width: 768px) {
   .p-header {
-    .p-header__wrapper{
+    .p-header__wrapper {
       flex-direction: row;
     }
 
@@ -295,7 +294,6 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 768px) 
       display: flex;
     }
   }
-
 
   .p-page__content {
     padding-top: 120px;
