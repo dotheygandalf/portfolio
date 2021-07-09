@@ -13,7 +13,6 @@ intro: ""
 <div class="">
 <div class="wrapper" markdown="1">
 
-![rise 1](/assets/photography/rise/rise-1.jpg)
 ![rise 1](/assets/photography/rise/rise-2.jpg)
 ![rise 1](/assets/photography/rise/rise-3.jpg)
 ![rise 1](/assets/photography/rise/rise-4.jpg)
