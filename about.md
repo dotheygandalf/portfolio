@@ -10,7 +10,7 @@ permalink: /about/
 A cross functional front end engineer passionate about user experiences, clean code and clear processes. I am an advocate for understanding complexity in order to deliver exceptional user experiences.
 
 
-Currently a Senior Software Engineer working on managed delivery at Netflix.
+Currently a Senior Software Engineer working on Spinnaker & Managed Delivery at Netflix.
 
 ## Contact
 
