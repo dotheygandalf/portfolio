@@ -14,7 +14,7 @@ Currently a Senior Software Engineer working on Spinnaker & Managed Delivery at 
 
 ## Contact
 
-[Resume](/assets/jonathanchang-resume-2021.pdf){:target="_blank"} - [Email](mailto:prancingwithponies@live.com) - [LinkedIn](https://www.linkedin.com/in/jonathan-chang-0585294b){:target="_blank"}
+[Resume](/assets/jonathanchang-resume-2023.pdf){:target="_blank"} - [Email](mailto:prancingwithponies@live.com) - [LinkedIn](https://www.linkedin.com/in/jonathan-chang-0585294b){:target="_blank"}
 
 ## My Writing
 [Deploys at Slack](https://slack.engineering/deploys-at-slack/){:target="_blank"}
